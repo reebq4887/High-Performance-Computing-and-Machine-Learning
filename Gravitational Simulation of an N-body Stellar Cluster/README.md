@@ -1,0 +1,1 @@
+I would like to note that much of the code for this assignment was provided, and the students were expected to first apply the Velocity-Verlet integration method, optimise the serial codebase, and then parallelise the execution over multiple processor cores using OpenMP and MPI. I have provided both, the original code files, as well as the optimised code for comparison.
